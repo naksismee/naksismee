@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**naksismee/naksismee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Engineering (Honours) student, majoring in **Software Engineering**, at **The University of Sydney**.
 
-Here are some ideas to get you started:
+Building. Learning. Making things useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in applied AI, developer tools, and thoughtful user experiences.
+
+**Working with:** Python · Java · FastAPI · Sentence Transformers · ChromaDB · Git
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Nakai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-nakai/)
+[![Email](https://img.shields.io/badge/Email-ananya.nakai22%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ananya.nakai22@gmail.com)
